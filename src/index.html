@@ -10,5 +10,21 @@
   <body>
     <app-root></app-root>
     <script id="zl-website-overlay-loader" async src="https://website-overlay-staging.s3.amazonaws.com/loader/zenloop.load.min.js?survey=TmpSaVpHUmtZelV0TnprME55MDBNMlF3TFdFd05Ea3RaRGM1TWpKa1l6WmlOV1l4"></script>
+    <script>
+      var Zenloop = window.Zenloop || {};
+      Zenloop.recipient = {
+        identity: 'test@example.com',
+        identity_type: 'email',
+        first_name: 'John',
+        last_name: 'Doe',
+        properties: [
+          {name: "color", value: "blue"},
+          {name: "color", value: "red"},
+          {name: "color", value: "green"},
+          {name: "color", value: "black"},
+          {name: "color", value: "white"}
+        ]
+      };
+    </script>
   </body>
 </html>
