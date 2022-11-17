@@ -5,13 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
-  <style>*{font-family:Arial,Helvetica,sans-serif}body{padding:.5rem;max-width:1000px;margin:auto}@media (min-width: 600px){body{padding:2rem}}body{color:#333;font-family:Cambria,Georgia,serif}</style><link rel="stylesheet" href="styles.f61d972cab9048d4.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.f61d972cab9048d4.css"></noscript></head>
-  <body>
-    <app-root></app-root>
+<style>*{font-family:Arial,Helvetica,sans-serif}body{padding:.5rem;max-width:1000px;margin:auto}@media (min-width: 600px){body{padding:2rem}}body{color:#333;font-family:Cambria,Georgia,serif}</style><link rel="stylesheet" href="styles.f61d972cab9048d4.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.f61d972cab9048d4.css"></noscript></head>
+<body>
+<app-root></app-root>
 <!--    <script id="zl-website-overlay-loader" async src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=T1dKaE1tWXlPREF0TWprNFl5MDBZalE1TFRnek5UWXRORGRoTnpjM09HUXhOREk1"></script>-->
 
 <!--    <script id="zl-website-overlay-loader" async src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=TkRReU0yRTVNR0V0T0RkaE55MDBaakUwTFdJMllqUXRPVEkwTlRBM1ptVXlOV1Jq"></script>-->
 
-    <script id="zl-website-overlay-loader" async="" src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WmpjM05tRmpZekF0WWpabFlpMDBaR013TFRoa05tTXRNRE5pTVdKbU9HVTFabVkz"></script>  <script src="runtime.91ccc65286002e35.js" type="module"></script><script src="polyfills.ae2478eca4e06e11.js" type="module"></script><script src="main.e9271faeaca8e2b9.js" type="module"></script>
+<!--<script id="zl-website-overlay-loader" async-->
+<!--        src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WmpjM05tRmpZekF0WWpabFlpMDBaR013TFRoa05tTXRNRE5pTVdKbU9HVTFabVkz"></script>-->
+
+
+<script>
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.id = 'zl-website-overlay-loader'
+    script.async = 'async';
+    script.src = 'https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WmpjM05tRmpZekF0WWpabFlpMDBaR013TFRoa05tTXRNRE5pTVdKbU9HVTFabVkz';
+    document.getElementsByTagName('body')[0].appendChild(script);
+    let j = 0;
+    let observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+            if (!mutation.addedNodes) return
+            for (let i = 0; i < mutation.addedNodes.length; i++) {
+                if (j < 1) {
+                    document.getElementsByClassName("zl-score zl-score-numbers zl-score-template-squares zl-promoter")[0].click();
+                }
+                let node = mutation.addedNodes[i]
+            }
+        })
+    })
+    observer.observe(document.body, {childList: true, subtree: true, attributes: false, characterData: false})</script>
+
+
+<script src="runtime.91ccc65286002e35.js" type="module"></script><script src="polyfills.ae2478eca4e06e11.js" type="module"></script><script src="main.e9271faeaca8e2b9.js" type="module"></script>
 
 </body></html>
