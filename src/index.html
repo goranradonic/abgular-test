@@ -1,18 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
+<head>
+    <meta charset="utf-8"/>
     <title>Tour of Heroes</title>
-    <base href="/" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <base href="/"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
     <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
-  </head>
-  <body>
-    <app-root></app-root>
+</head>
+<body>
+<app-root></app-root>
 <!--    <script id="zl-website-overlay-loader" async src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=T1dKaE1tWXlPREF0TWprNFl5MDBZalE1TFRnek5UWXRORGRoTnpjM09HUXhOREk1"></script>-->
 
 <!--    <script id="zl-website-overlay-loader" async src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=TkRReU0yRTVNR0V0T0RkaE55MDBaakUwTFdJMllqUXRPVEkwTlRBM1ptVXlOV1Jq"></script>-->
 
-    <script id="zl-website-overlay-loader" async src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WmpjM05tRmpZekF0WWpabFlpMDBaR013TFRoa05tTXRNRE5pTVdKbU9HVTFabVkz"></script>  </body>
+<!--<script id="zl-website-overlay-loader" async-->
+<!--        src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WmpjM05tRmpZekF0WWpabFlpMDBaR013TFRoa05tTXRNRE5pTVdKbU9HVTFabVkz"></script>-->
+
+
+<script>
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.id = 'zl-website-overlay-loader'
+    script.async = 'async';
+    script.src = 'https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WmpjM05tRmpZekF0WWpabFlpMDBaR013TFRoa05tTXRNRE5pTVdKbU9HVTFabVkz';
+    document.getElementsByTagName('body')[0].appendChild(script);
+    let j = 0;
+    let observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+            if (!mutation.addedNodes) return
+            for (let i = 0; i < mutation.addedNodes.length; i++) {
+                if (j < 1) {
+                    document.getElementsByClassName("zl-score zl-score-numbers zl-score-template-squares zl-promoter")[0].click();
+                }
+                let node = mutation.addedNodes[i]
+            }
+        })
+    })
+    observer.observe(document.body, {childList: true, subtree: true, attributes: false, characterData: false})</script>
+
+
+</body>
 </html>
