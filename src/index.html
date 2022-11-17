@@ -23,17 +23,15 @@
     script.type = 'text/javascript';
     script.id = 'zl-website-overlay-loader'
     script.async = 'async';
-    script.src = 'https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WmpjM05tRmpZekF0WWpabFlpMDBaR013TFRoa05tTXRNRE5pTVdKbU9HVTFabVkz';
+    script.src = 'https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=TXpZNU1UYzBaR0l0T0dKbE9DMDBaV1prTFRrNE5HRXRNVFUxWlRKaVl6RmpZekZo';
 
     document.getElementsByTagName('body')[0].appendChild(script);
 
     let observer = new MutationObserver((mutations) => {
-        console.log(mutations, 'mut')
-        console.log(document.getElementsByClassName("zl-score zl-score-numbers zl-score-template-squares zl-promoter"), 'mut')
         mutations.forEach((mutation) => {
             if (!mutation.addedNodes) return
             for (let i = 0; i < mutation.addedNodes.length; i++) {
-                document.getElementsByClassName("zl-score zl-score-numbers zl-score-template-squares zl-promoter")[0].click();
+                document.getElementsByClassName("zl-score zl-score-thumbs zl-promoter")[0].click();
                 let node = mutation.addedNodes[i]
             }
         })
