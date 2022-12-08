@@ -22,7 +22,9 @@
     script.type = 'text/javascript';
     script.id = 'zl-website-overlay-loader'
     script.async = 'async';
-    script.src = 'https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=TlRVME5UWTNNV010TUdJMU55MDBaakJtTFRnMVlXUXRNalUyT1RFeE16QTVZemcw';
+    script.src = 'PASTE_SRC_LINK_HERE';
+
+    const scoreType = 'numbers' // numbers or thumbs - depending on which system it is
 
     document.getElementsByTagName('body')[0].appendChild(script);
 
@@ -30,7 +32,7 @@
         mutations.forEach((mutation) => {
             if (!mutation.addedNodes) return
             for (let i = 0; i < mutation.addedNodes.length; i++) {
-                const element = document.getElementById('zl-scores-type-numbers')
+                const element = document.getElementById(`zl-scores-type-${scoreType}`)
                 if(element) {
                     element.children[0].click();
                 }
