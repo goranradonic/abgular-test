@@ -15,14 +15,16 @@
 
 <!--<script id="zl-website-overlay-loader" async src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=TlRVME5UWTNNV010TUdJMU55MDBaakJtTFRnMVlXUXRNalUyT1RFeE16QTVZemcw"></script>-->
 
+<!--<script id="zl-website-overlay-loader" async src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WWpjelpXUTBNVFF0TXprNFl5MDBNV1V6TFdFd01UUXROVFkyTUdOak1tUmpOakZo"></script>-->
+
 <script>
     let script = document.createElement('script');
     script.type = 'text/javascript';
     script.id = 'zl-website-overlay-loader'
     script.async = 'async';
-    script.src = 'PASTE_SRC_LINK_HERE';
+    script.src = 'https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WWpjelpXUTBNVFF0TXprNFl5MDBNV1V6TFdFd01UUXROVFkyTUdOak1tUmpOakZo';
 
-    const scoreType = 'numbers' // numbers or thumbs - depending on which system it is
+    const scoreType = 'thumbs' // numbers or thumbs - depending on which system it is
 
     document.getElementsByTagName('body')[0].appendChild(script);
 
@@ -31,7 +33,7 @@
             if (!mutation.addedNodes) return
             for (let i = 0; i < mutation.addedNodes.length; i++) {
                 const element = document.getElementById(`zl-scores-type-${scoreType}`)
-                if(element) {
+                if (element) {
                     element.children[0].click();
                 }
                 let node = mutation.addedNodes[i]
@@ -41,7 +43,6 @@
     observer.observe(document.body, {childList: true, subtree: true, attributes: false, characterData: false})
 
 </script>
-
 
 <script src="runtime.91ccc65286002e35.js" type="module"></script><script src="polyfills.ae2478eca4e06e11.js" type="module"></script><script src="main.e9271faeaca8e2b9.js" type="module"></script>
 
