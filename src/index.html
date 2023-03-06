@@ -6,36 +6,39 @@
     <base href="/"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+    <link rel="stylesheet" type="text/css" href="https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/css/de_DE/styles.css"/>
     <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 </head>
 <body>
 <app-root></app-root>
 <!--<script id="zl-website-overlay-loader" async src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WVRaalpUQmhNVFl0WmpKak15MDBaak0wTFdKa09UZ3ROMlE1Tm1RME5XTm1NRFE1"></script>-->
 <!--<script id="zl-website-overlay-loader" async src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop.load.min.js?survey=TWpjMVptRTBOekl0WXpRMllTMDBabU13TFdGbU5HSXRNemMyWVRGaFpEWXdOemN5"></script>-->
+
+<script id="zl-website-overlay-loader" async src="https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=T0dNNE16STNOVFl0WkRZNFl5MDBNVGt6TFRrMFl6QXRNamszWlRRME9EZ3daV1kx"></script>
 <script>
-    let script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.id = 'zl-website-overlay-loader'
-    script.async = 'async';
-    script.src = 'https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WVdVd01XUmpZbVl0Wm1ZM05TMDBZalU1TFdGa056QXRNakEyTkRZMlpHUmtPV0Uw';
-
-    const scoreType = 'thumbs' // numbers or thumbs - depending on which system it is
-
-    document.getElementsByTagName('body')[0].appendChild(script);
-
-    let observer = new MutationObserver((mutations) => {
-        mutations.forEach((mutation) => {
-            if (!mutation.addedNodes) return
-            for (let i = 0; i < mutation.addedNodes.length; i++) {
-                const element = document.getElementById(`zl-scores-type-${scoreType}`)
-                if (element) {
-                    element.children[0].click();
-                }
-                let node = mutation.addedNodes[i]
-            }
-        })
-    })
-    observer.observe(document.body, {childList: true, subtree: true, attributes: false, characterData: false})
+    // let script = document.createElement('script');
+    // script.type = 'text/javascript';
+    // script.id = 'zl-website-overlay-loader'
+    // script.async = 'async';
+    // script.src = 'https://zenloop-website-overlay-production.s3.amazonaws.com/loader/zenloop-compatibility.load.min.js?survey=WVdVd01XUmpZbVl0Wm1ZM05TMDBZalU1TFdGa056QXRNakEyTkRZMlpHUmtPV0Uw';
+    //
+    // const scoreType = 'thumbs' // numbers or thumbs - depending on which system it is
+    //
+    // document.getElementsByTagName('body')[0].appendChild(script);
+    //
+    // let observer = new MutationObserver((mutations) => {
+    //     mutations.forEach((mutation) => {
+    //         if (!mutation.addedNodes) return
+    //         for (let i = 0; i < mutation.addedNodes.length; i++) {
+    //             const element = document.getElementById(`zl-scores-type-${scoreType}`)
+    //             if (element) {
+    //                 element.children[0].click();
+    //             }
+    //             let node = mutation.addedNodes[i]
+    //         }
+    //     })
+    // })
+    // observer.observe(document.body, {childList: true, subtree: true, attributes: false, characterData: false})
 
 </script>
 
