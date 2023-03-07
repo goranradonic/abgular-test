@@ -1,4 +1,6 @@
-@import "https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/css/de_DE/jstree/style.css"
+@import "https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/css/de_DE/jstree/style.css";
+
+
 :host {
     --bs-blue: #0d6efd;
     --bs-indigo: #6610f2;
