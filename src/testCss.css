@@ -17599,8 +17599,8 @@ textarea.form-control-lg {
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(../../fonts/fa-brands-400.eot);
-    src: url(../../fonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(../../fonts/fa-brands-400.woff2) format("woff2"),url(../../fonts/fa-brands-400.woff) format("woff"),url(../../fonts/fa-brands-400.ttf) format("truetype"),url(../../fonts/fa-brands-400.svg#fontawesome) format("svg")
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-brands-400.eot);
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-brands-400.woff2) format("woff2"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-brands-400.woff) format("woff"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-brands-400.ttf) format("truetype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-brands-400.svg#fontawesome) format("svg")
 }
 
 .fab {
@@ -17612,8 +17612,8 @@ textarea.form-control-lg {
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(../../fonts/fa-regular-400.eot);
-    src: url(../../fonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(../../fonts/fa-regular-400.woff2) format("woff2"),url(../../fonts/fa-regular-400.woff) format("woff"),url(../../fonts/fa-regular-400.ttf) format("truetype"),url(../../fonts/fa-regular-400.svg#fontawesome) format("svg")
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-regular-400.eot);
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-regular-400.woff2) format("woff2"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-regular-400.woff) format("woff"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-regular-400.ttf) format("truetype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-regular-400.svg#fontawesome) format("svg")
 }
 
 .fab,.far {
@@ -17625,8 +17625,8 @@ textarea.form-control-lg {
     font-style: normal;
     font-weight: 900;
     font-display: block;
-    src: url(../../fonts/fa-solid-900.eot);
-    src: url(../../fonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(../../fonts/fa-solid-900.woff2) format("woff2"),url(../../fonts/fa-solid-900.woff) format("woff"),url(../../fonts/fa-solid-900.ttf) format("truetype"),url(../../fonts/fa-solid-900.svg#fontawesome) format("svg")
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-solid-900.eot);
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-solid-900.woff2) format("woff2"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-solid-900.woff) format("woff"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-solid-900.ttf) format("truetype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa,.far,.fas {
@@ -19414,8 +19414,8 @@ table.dataTable.table-striped>tbody>tr.odd {
 
 @font-face {
     font-family: icomoon-branches;
-    src: url(../../fonts/icomoon-branches.eot);
-    src: url(../../fonts/icomoon-branches.eot?#iefix) format("embedded-opentype"),url(../../fonts/icomoon-branches.woff) format("woff"),url(../../fonts/icomoon-branches.ttf) format("truetype"),url(../../fonts/icomoon-branches.svg#icomoon) format("svg")
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/icomoon-branches.eot);
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/icomoon-branches.eot?#iefix) format("embedded-opentype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/icomoon-branches.woff) format("woff"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/icomoon-branches.ttf) format("truetype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/icomoon-branches.svg#icomoon) format("svg")
 }
 
 .icomoon-branches {
@@ -19448,16 +19448,16 @@ table.dataTable.table-striped>tbody>tr.odd {
 
 @font-face {
     font-family: PT-Sans;
-    src: url(../../fonts/PT-Sans.eot);
-    src: url(../../fonts/PT-Sans.eot?#iefix) format("embedded-opentype"),url(../../fonts/PT-Sans.woff) format("woff"),url(../../fonts/PT-Sans.ttf) format("truetype"),url(../../fonts/PT-Sans.svg#PTSansRegular) format("svg");
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/PT-Sans.eot);
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/PT-Sans.eot?#iefix) format("embedded-opentype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/PT-Sans.woff) format("woff"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/PT-Sans.ttf) format("truetype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/PT-Sans.svg#PTSansRegular) format("svg");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: PT-Sans-bold;
-    src: url(../../fonts/PT-Sans-bold.eot);
-    src: url(../../fonts/PT-Sans-bold.eot?#iefix) format("embedded-opentype"),url(../../fonts/PT-Sans-bold.woff) format("woff"),url(../../fonts/PT-Sans-bold.ttf) format("truetype"),url(../../fonts/PT-Sans-bold.svg#PTSansBold) format("svg");
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/PT-Sans-bold.eot);
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/PT-Sans-bold.eot?#iefix) format("embedded-opentype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/PT-Sans-bold.woff) format("woff"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/PT-Sans-bold.ttf) format("truetype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/PT-Sans-bold.svg#PTSansBold) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -19697,8 +19697,8 @@ hr {
 
 @font-face {
     font-family: Glyphicons Halflings;
-    src: url(../../../fonts/glyphicons-halflings-regular.eot);
-    src: url(../../../fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"),url(../../../fonts/glyphicons-halflings-regular.woff2) format("woff2"),url(../../../fonts/glyphicons-halflings-regular.woff) format("woff"),url(../../../fonts/glyphicons-halflings-regular.ttf) format("truetype"),url(../../../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg")
+    src: url(../https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.eot);
+    src: url(../https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"),url(../https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.woff2) format("woff2"),url(../https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.woff) format("woff"),url(../https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.ttf) format("truetype"),url(../https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg")
 }
 
 .glyphicon {
@@ -27568,14 +27568,14 @@ footer .footer-bottom-nav #footer-bottom-nav-cage .footer-bottom-nav-link,footer
 
 @font-face {
     font-family: Glyphicons Halflings;
-    src: url(../../fonts/glyphicons-halflings-regular.eot);
-    src: url(../../fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"),url(../../fonts/glyphicons-halflings-regular.woff2) format("woff2"),url(../../fonts/glyphicons-halflings-regular.woff) format("woff"),url(../../fonts/glyphicons-halflings-regular.ttf) format("truetype"),url(../../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg")
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.eot);
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.woff2) format("woff2"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.woff) format("woff"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.ttf) format("truetype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg")
 }
 
 @font-face {
     font-family: icomoon;
-    src: url(../../fonts/icomoon.eot?-g0vw1s);
-    src: url(../../fonts/icomoon.eot?#iefix-g0vw1s) format("embedded-opentype"),url(../../fonts/icomoon.woff?-g0vw1s) format("woff"),url(../../fonts/icomoon.ttf?-g0vw1s) format("truetype"),url(../../fonts/icomoon.svg?-g0vw1s#icomoon) format("svg");
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/icomoon.eot?-g0vw1s);
+    src: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/icomoon.eot?#iefix-g0vw1s) format("embedded-opentype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/icomoon.woff?-g0vw1s) format("woff"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/icomoon.ttf?-g0vw1s) format("truetype"),url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/fonts/icomoon.svg?-g0vw1s#icomoon) format("svg");
     font-weight: 400;
     font-style: normal
 }
