@@ -17907,7 +17907,7 @@ textarea.form-control-lg {
     font-size: 13px;
     font-variant: small-caps;
     color: #999;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/fileinput-loading.gif) 0 0 no-repeat
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/fileinput-loading.gif) 0 0 no-repeat
 }
 
 .file-object {
@@ -18242,7 +18242,7 @@ textarea.form-control-lg {
 }
 
 .file-thumb-loading {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/fileinput-loading.gif) no-repeat scroll 50% content-box!important
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/fileinput-loading.gif) no-repeat scroll 50% content-box!important
 }
 
 .file-drop-zone {
@@ -18281,7 +18281,7 @@ textarea.form-control-lg {
 }
 
 .file-uploading {
-    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/fileinput-loading-sm.gif) no-repeat center bottom 10px;
+    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/fileinput-loading-sm.gif) no-repeat center bottom 10px;
     opacity: .65
 }
 
@@ -18384,7 +18384,7 @@ textarea.form-control-lg {
 }
 
 .file-loading[dir=rtl]:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/fileinput-loading.gif) 100% 0 no-repeat;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/fileinput-loading.gif) 100% 0 no-repeat;
     padding-left: 0;
     padding-right: 20px
 }
@@ -20756,7 +20756,7 @@ body.cockpit {
 }
 
 body.process {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/background.jpg) fixed no-repeat 0 0;
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/background.jpg) fixed no-repeat 0 0;
     background-size: cover
 }
 
@@ -20816,13 +20816,13 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage {
 }
 
 body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/panorama-bg_cockpit.jpg) no-repeat 100%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/panorama-bg_cockpit.jpg) no-repeat 100%;
     background-size: auto 100%
 }
 
 @media (max-width: 1199px) {
     body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
-        background:transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/panorama-bg_cockpit.jpg) no-repeat -457px 0;
+        background:transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/panorama-bg_cockpit.jpg) no-repeat -457px 0;
         background-size: auto 100%
     }
 }
@@ -21012,7 +21012,7 @@ body.in main {
     float: right;
     width: 50%;
     height: 100%;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/background-small.jpg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/background-small.jpg) no-repeat 50%;
     background-size: cover;
     display: none
 }
@@ -21200,7 +21200,7 @@ header #header-cage {
 }
 
 header .logo {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/logo.png) no-repeat 0;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/logo.png) no-repeat 0;
     margin-top: 0;
     margin-left: 0;
     height: 163px;
@@ -21305,7 +21305,7 @@ header #headerContext .header-context-2-lines {
     }
 
     header .logo {
-        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/logo.png) no-repeat 0;
+        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/logo.png) no-repeat 0;
         background-size: auto 100%;
         margin-top: 0;
         margin-left: 0;
@@ -21938,7 +21938,7 @@ span.alert-danger[data-bs-toggle=popover],span.alert-info[data-bs-toggle=popover
     margin-left: -70px;
     margin-right: 13px;
     margin-bottom: -17px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-login.svg) no-repeat center 14px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-login.svg) no-repeat center 14px;
     background-size: 100%
 }
 
@@ -21949,7 +21949,7 @@ span.alert-danger[data-bs-toggle=popover],span.alert-info[data-bs-toggle=popover
         height: 39px;
         margin-bottom: -13px;
         margin-right: 10px;
-        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-login.svg) no-repeat center 10px;
+        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-login.svg) no-repeat center 10px;
         background-size: 100%
     }
 }
@@ -22306,109 +22306,109 @@ span.alert-danger[data-bs-toggle=popover],span.alert-info[data-bs-toggle=popover
 }
 
 #cockpit-cards-container .card.login .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-login.svg) no-repeat center 14px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-login.svg) no-repeat center 14px;
     background-size: 100%
 }
 
 @media (max-width: 767px) {
     #cockpit-cards-container .card.login .card-header .card-title:before {
-        background:transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-login.svg) no-repeat center 10px;
+        background:transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-login.svg) no-repeat center 10px;
         background-size: 100%
     }
 }
 
 #cockpit-cards-container .card.product-calculator .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-calculator.svg) no-repeat center 0;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-calculator.svg) no-repeat center 0;
     background-size: 78%
 }
 
 #cockpit-cards-container .card.meter-reading .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-meter.svg) no-repeat center 7px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-meter.svg) no-repeat center 7px;
     background-size: 100%
 }
 
 #cockpit-cards-container .card.e-mobility .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-e-mobility.svg) no-repeat center 0;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-e-mobility.svg) no-repeat center 0;
     background-size: 93%
 }
 
 #cockpit-cards-container .card.postbox .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-postbox.svg) no-repeat center 7px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-postbox.svg) no-repeat center 7px;
     background-size: 100%
 }
 
 #cockpit-cards-container .card.invoice .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-invoice.svg) no-repeat center 0;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-invoice.svg) no-repeat center 0;
     background-size: 78%
 }
 
 #cockpit-cards-container .card.meter .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-meter.svg) no-repeat center 7px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-meter.svg) no-repeat center 7px;
     background-size: 100%
 }
 
 #cockpit-cards-container .card.prepayment .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-prepayment.svg) no-repeat center 7px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-prepayment.svg) no-repeat center 7px;
     background-size: 100%
 }
 
 #cockpit-cards-container .card.customer .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-customer.svg) no-repeat center 0;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-customer.svg) no-repeat center 0;
     background-size: 65%
 }
 
 #cockpit-cards-container .card.contract .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-contract.svg) no-repeat center 0;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-contract.svg) no-repeat center 0;
     background-size: 78%
 }
 
 #cockpit-cards-container .card.contract .card-body .branch-icon-before-text.power {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat -4px 6px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat -4px 6px;
     background-size: 15px 15px;
     padding-left: 15px
 }
 
 #cockpit-cards-container .card.contract .card-body .branch-icon-before-text.gas {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat -3px 6px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat -3px 6px;
     background-size: 15px 15px;
     padding-left: 16px
 }
 
 #cockpit-cards-container .card.contract .card-body .branch-icon-before-text.water {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat -1px 6px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat -1px 6px;
     background-size: 15px 15px;
     padding-left: 20px
 }
 
 #cockpit-cards-container .card.contract .card-body .branch-icon-before-text.thermal {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat -1px 6px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat -1px 6px;
     background-size: 15px 15px;
     padding-left: 20px
 }
 
 #cockpit-cards-container .card.contract .card-body .branch-icon-before-text.powerCharge {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 0 6px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 0 6px;
     background-size: 15px 15px;
     padding-left: 20px
 }
 
 #cockpit-cards-container .card.customer-account .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-customer-account.svg) no-repeat center 0;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-customer-account.svg) no-repeat center 0;
     background-size: 84%
 }
 
 #cockpit-cards-container .card.bankdata .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-bankdata.svg) no-repeat center 0;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-bankdata.svg) no-repeat center 0;
     background-size: 78%
 }
 
 #cockpit-cards-container .card.order-status .card-header .card-title:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/widget-icon-service-status.svg) no-repeat center 0;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/widget-icon-service-status.svg) no-repeat center 0;
     background-size: 78%
 }
 
@@ -22518,27 +22518,27 @@ span.alert-danger[data-bs-toggle=popover],span.alert-info[data-bs-toggle=popover
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label div.radio-label .radio-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label div.radio-label .radio-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label div.radio-label .radio-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label div.radio-label .radio-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label div.radio-label .radio-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
     background-size: 18px
 }
 
@@ -22555,27 +22555,27 @@ span.alert-danger[data-bs-toggle=popover],span.alert-info[data-bs-toggle=popover
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label:focus div.radio-label .radio-branch-icon.power,#cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label:hover div.radio-label .radio-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label:focus div.radio-label .radio-branch-icon.gas,#cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label:hover div.radio-label .radio-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label:focus div.radio-label .radio-branch-icon.water,#cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label:hover div.radio-label .radio-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label:focus div.radio-label .radio-branch-icon.thermal,#cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label:hover div.radio-label .radio-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label:focus div.radio-label .radio-branch-icon.powerCharge,#cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old)+label:hover div.radio-label .radio-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
     background-size: 18px
 }
 
@@ -22588,27 +22588,27 @@ span.alert-danger[data-bs-toggle=popover],span.alert-info[data-bs-toggle=popover
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label div.radio-label .radio-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label div.radio-label .radio-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label div.radio-label .radio-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label div.radio-label .radio-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label div.radio-label .radio-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
     background-size: 18px
 }
 
@@ -22625,27 +22625,27 @@ span.alert-danger[data-bs-toggle=popover],span.alert-info[data-bs-toggle=popover
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label:focus div.radio-label .radio-branch-icon.power,#cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label:hover div.radio-label .radio-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label:focus div.radio-label .radio-branch-icon.gas,#cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label:hover div.radio-label .radio-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label:focus div.radio-label .radio-branch-icon.water,#cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label:hover div.radio-label .radio-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label:focus div.radio-label .radio-branch-icon.thermal,#cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label:hover div.radio-label .radio-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 50%;
     background-size: 18px
 }
 
 #cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label:focus div.radio-label .radio-branch-icon.powerCharge,#cockpit-cards-container .card.product-calculator .radio-branches-row input[type=radio]:not(old):checked+label:hover div.radio-label .radio-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
     background-size: 18px
 }
 
@@ -22699,152 +22699,152 @@ span.alert-danger[data-bs-toggle=popover],span.alert-info[data-bs-toggle=popover
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:first-child {
-    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-01.svg) no-repeat 50%;
+    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-01.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:first-child:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-01-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-01-active.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(2) {
-    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-02.svg) no-repeat 50%;
+    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-02.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(2):hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-02-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-02-active.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(3) {
-    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-03.svg) no-repeat 50%;
+    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-03.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(3):hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-03-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-03-active.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(4) {
-    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-04.svg) no-repeat 50%;
+    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-04.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(4):hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-04-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-04-active.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(5) {
-    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-05.svg) no-repeat 50%;
+    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-05.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(5):hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-05-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-05-active.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:first-child.active,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:first-child.active:hover,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:first-child.hoveractive,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:first-child.hoveractive:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-01-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-01-active.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(2).active,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(2).active:hover,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(2).hoveractive,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(2).hoveractive:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-02-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-02-active.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(3).active,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(3).active:hover,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(3).hoveractive,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(3).hoveractive:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-03-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-03-active.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(4).active,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(4).active:hover,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(4).hoveractive,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(4).hoveractive:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-04-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-04-active.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(5).active,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(5).active:hover,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(5).hoveractive,#cockpit-cards-container .card.product-calculator .consumption-buttons.persons .consumption-button:nth-child(5).hoveractive:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-persons-05-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-persons-05-active.svg) no-repeat 50%;
     background-size: auto 29px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:first-child {
-    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-1.svg) no-repeat 50%;
+    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-1.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:first-child:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-1-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-1-active.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(2) {
-    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-2.svg) no-repeat 50%;
+    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-2.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(2):hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-2-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-2-active.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(3) {
-    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-3.svg) no-repeat 50%;
+    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-3.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(3):hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-3-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-3-active.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(4) {
-    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-4.svg) no-repeat 50%;
+    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-4.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(4):hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-4-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-4-active.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(5) {
-    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-5.svg) no-repeat 50%;
+    background: #eaeaea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-5.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(5):hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-5-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-5-active.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:first-child.active,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:first-child.active:hover,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:first-child.hoveractive,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:first-child.hoveractive:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-1-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-1-active.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(2).active,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(2).active:hover,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(2).hoveractive,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(2).hoveractive:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-2-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-2-active.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(3).active,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(3).active:hover,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(3).hoveractive,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(3).hoveractive:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-3-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-3-active.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(4).active,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(4).active:hover,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(4).hoveractive,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(4).hoveractive:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-4-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-4-active.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
 #cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(5).active,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(5).active:hover,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(5).hoveractive,#cockpit-cards-container .card.product-calculator .consumption-buttons.vehicles .consumption-button:nth-child(5).hoveractive:hover {
-    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-size-5-active.svg) no-repeat 50%;
+    background: #f2c402 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-size-5-active.svg) no-repeat 50%;
     background-size: auto 40px
 }
 
@@ -23069,35 +23069,35 @@ body.in #cockpit-cards-container .card .card-body .card-button-line {
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.context-menu-entry-icon-power {
-    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg);
+    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg);
     background-repeat: no-repeat;
     background-position: 16px 12px;
     background-size: 20px 20px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.context-menu-entry-icon-gas {
-    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg);
+    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg);
     background-repeat: no-repeat;
     background-position: 16px 12px;
     background-size: 20px 20px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.context-menu-entry-icon-water {
-    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg);
+    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg);
     background-repeat: no-repeat;
     background-position: 16px 12px;
     background-size: 20px 20px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.context-menu-entry-icon-thermal {
-    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg);
+    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg);
     background-repeat: no-repeat;
     background-position: 16px 12px;
     background-size: 20px 20px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.context-menu-entry-icon-powerCharge {
-    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg);
+    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg);
     background-repeat: no-repeat;
     background-position: 16px 11px;
     background-size: 20px 20px
@@ -23227,35 +23227,35 @@ body.in #cockpit-cards-container .card .card-body .card-button-line {
 
 .main-process .card .card-body .branch-icon-before-text.power {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat -4px 5px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat -4px 5px;
     background-size: 15px 15px;
     padding-left: 15px
 }
 
 .main-process .card .card-body .branch-icon-before-text.gas {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat -3px 4px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat -3px 4px;
     background-size: 15px 15px;
     padding-left: 16px
 }
 
 .main-process .card .card-body .branch-icon-before-text.water {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat -1px 5px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat -1px 5px;
     background-size: 15px 15px;
     padding-left: 20px
 }
 
 .main-process .card .card-body .branch-icon-before-text.thermal {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat -1px 4px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat -1px 4px;
     background-size: 15px 15px;
     padding-left: 20px
 }
 
 .main-process .card .card-body .branch-icon-before-text.powerCharge {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 0 4px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 0 4px;
     background-size: 15px 15px;
     padding-left: 20px
 }
@@ -23327,7 +23327,7 @@ body.in #cockpit-cards-container .card .card-body .card-button-line {
 }
 
 .main-process .ecar-image-row {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-process-e-car-funding.svg) no-repeat .75rem;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-process-e-car-funding.svg) no-repeat .75rem;
     background-size: 400px;
     min-height: 200px
 }
@@ -24489,7 +24489,7 @@ textarea {
 }
 
 .input-group-text.flatmate {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-single-person.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-single-person.svg) no-repeat 50%;
     background-size: 38px auto;
     height: 38px;
     min-width: 30px;
@@ -24498,7 +24498,7 @@ textarea {
 }
 
 .input-group-text.flatmates {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-multiple-persons.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-multiple-persons.svg) no-repeat 50%;
     background-size: 38px auto;
     height: 38px;
     min-width: 60px;
@@ -24507,7 +24507,7 @@ textarea {
 }
 
 .input-group-text.house-small {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-house-small.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-house-small.svg) no-repeat 50%;
     background-size: 38px auto;
     height: 38px;
     min-width: 30px;
@@ -24516,7 +24516,7 @@ textarea {
 }
 
 .input-group-text.house-large {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-house-large.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-house-large.svg) no-repeat 50%;
     background-size: 38px auto;
     height: 38px;
     min-width: 60px;
@@ -24721,37 +24721,37 @@ input[type=radio]:not(old)+label div.radio-label:hover {
 }
 
 input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 9px 2px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 9px 2px;
     background-size: 20px 20px;
     padding-left: 32px
 }
 
 input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 10px 1px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 10px 1px;
     background-size: 20px 20px;
     padding-left: 34px
 }
 
 input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 12px 2px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 12px 2px;
     background-size: 20px 20px;
     padding-left: 38px
 }
 
 input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 12px 1px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 12px 1px;
     background-size: 20px 20px;
     padding-left: 38px
 }
 
 input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 12px 1px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 12px 1px;
     background-size: 20px 20px;
     padding-left: 38px
 }
 
 input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.wastewater {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-wastewater.svg) no-repeat 12px 2px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-wastewater.svg) no-repeat 12px 2px;
     background-size: 20px 20px;
     padding-left: 38px
 }
@@ -25029,37 +25029,37 @@ input[type=checkbox]:not(old)+label div.checkbox-label:hover {
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 9px 2px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 9px 2px;
     background-size: 20px 20px;
     padding-left: 32px
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 10px 1px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 10px 1px;
     background-size: 20px 20px;
     padding-left: 34px
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 12px 2px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 12px 2px;
     background-size: 20px 20px;
     padding-left: 38px
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 12px 1px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 12px 1px;
     background-size: 20px 20px;
     padding-left: 38px
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 12px 1px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 12px 1px;
     background-size: 20px 20px;
     padding-left: 38px
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.wastewater {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-wastewater.svg) no-repeat 12px 2px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-wastewater.svg) no-repeat 12px 2px;
     background-size: 20px 20px;
     padding-left: 38px
 }
@@ -26007,27 +26007,27 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination .paginate_button.di
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label div.radio-label .radio-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label div.radio-label .radio-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label div.radio-label .radio-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label div.radio-label .radio-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label div.radio-label .radio-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
     background-size: 18px
 }
 
@@ -26040,27 +26040,27 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination .paginate_button.di
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label:focus div.radio-label .radio-branch-icon.power,.main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label:hover div.radio-label .radio-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label:focus div.radio-label .radio-branch-icon.gas,.main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label:hover div.radio-label .radio-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label:focus div.radio-label .radio-branch-icon.water,.main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label:hover div.radio-label .radio-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label:focus div.radio-label .radio-branch-icon.thermal,.main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label:hover div.radio-label .radio-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label:focus div.radio-label .radio-branch-icon.powerCharge,.main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old)+label:hover div.radio-label .radio-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
     background-size: 18px
 }
 
@@ -26073,27 +26073,27 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination .paginate_button.di
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label div.radio-label .radio-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label div.radio-label .radio-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label div.radio-label .radio-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label div.radio-label .radio-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label div.radio-label .radio-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
     background-size: 18px
 }
 
@@ -26106,27 +26106,27 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination .paginate_button.di
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label:focus div.radio-label .radio-branch-icon.power,.main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label:hover div.radio-label .radio-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label:focus div.radio-label .radio-branch-icon.gas,.main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label:hover div.radio-label .radio-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label:focus div.radio-label .radio-branch-icon.water,.main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label:hover div.radio-label .radio-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label:focus div.radio-label .radio-branch-icon.thermal,.main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label:hover div.radio-label .radio-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 50%;
     background-size: 18px
 }
 
 .main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label:focus div.radio-label .radio-branch-icon.powerCharge,.main-process .card .tariff-calculator-card .accordion .accordion-item .accordion-body .radio-branches-row input[type=radio]:not(old):checked+label:hover div.radio-label .radio-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
     background-size: 18px
 }
 
@@ -26301,163 +26301,163 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination .paginate_button.di
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.power:nth-child(2) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-power-2.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-power-2.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.power:nth-child(3) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-power-3.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-power-3.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.power:nth-child(4) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-power-4.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-power-4.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.power:nth-child(5) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-power-5.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-power-5.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.power:nth-child(6) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-power-6.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-power-6.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.power:nth-child(7) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-power-7.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-power-7.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.power:nth-child(8) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-power-8.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-power-8.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.power:nth-child(9) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-power-9.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-power-9.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.powerCharge:nth-child(2) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-powerCharge-2.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-powerCharge-2.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.powerCharge:nth-child(3) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-powerCharge-3.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-powerCharge-3.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.powerCharge:nth-child(4) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-powerCharge-4.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-powerCharge-4.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.powerCharge:nth-child(5) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-powerCharge-5.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-powerCharge-5.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.powerCharge:nth-child(6) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-powerCharge-6.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-powerCharge-6.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.powerCharge:nth-child(7) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-powerCharge-7.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-powerCharge-7.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.powerCharge:nth-child(8) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-powerCharge-8.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-powerCharge-8.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.powerCharge:nth-child(9) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-powerCharge-9.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-powerCharge-9.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.gas:nth-child(2) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-gas-2.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-gas-2.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.gas:nth-child(3) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-gas-3.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-gas-3.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.gas:nth-child(4) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-gas-4.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-gas-4.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.gas:nth-child(5) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-gas-5.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-gas-5.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.gas:nth-child(6) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-gas-6.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-gas-6.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.gas:nth-child(7) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-gas-7.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-gas-7.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.gas:nth-child(8) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-gas-8.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-gas-8.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.gas:nth-child(9) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-gas-9.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-gas-9.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.water:nth-child(2) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-water-2.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-water-2.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.water:nth-child(3) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-water-3.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-water-3.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.water:nth-child(4) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-water-4.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-water-4.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.water:nth-child(5) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-water-5.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-water-5.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.water:nth-child(6) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-water-6.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-water-6.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.water:nth-child(7) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-water-7.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-water-7.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.water:nth-child(8) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-water-8.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-water-8.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.water:nth-child(9) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-water-9.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-water-9.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.thermal:nth-child(2) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-thermal-2.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-thermal-2.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.thermal:nth-child(3) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-thermal-3.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-thermal-3.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.thermal:nth-child(4) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-thermal-4.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-thermal-4.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.thermal:nth-child(5) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-thermal-5.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-thermal-5.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.thermal:nth-child(6) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-thermal-6.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-thermal-6.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.thermal:nth-child(7) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-thermal-7.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-thermal-7.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.thermal:nth-child(8) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-thermal-8.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-thermal-8.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.thermal:nth-child(9) .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-thermal-9.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-thermal-9.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.recommended-tariff {
@@ -26552,23 +26552,23 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination .paginate_button.di
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.recommended-tariff.power .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-power-1.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-power-1.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.recommended-tariff.powerCharge .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-powerCharge-1.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-powerCharge-1.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.recommended-tariff.gas .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-gas-1.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-gas-1.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.recommended-tariff.water .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-water-1.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-water-1.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.recommended-tariff.thermal .tariff-img-container {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/tariff-img-thermal-1.png) no-repeat top
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/tariff-img-thermal-1.png) no-repeat top
 }
 
 .main-process .card .tariffs-display-container .tariff-cards-display .tariff-card.tariff-placeholder {
@@ -27214,35 +27214,35 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination .paginate_button.di
 
 .main-marginal-column .card.shopping-cart .card-body .accordion-item .accordion-header .accordion-button .branch-icon-before-text.power {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power-white.svg) no-repeat -4px 3px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power-white.svg) no-repeat -4px 3px;
     background-size: 15px 15px;
     padding-left: 15px
 }
 
 .main-marginal-column .card.shopping-cart .card-body .accordion-item .accordion-header .accordion-button .branch-icon-before-text.gas {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas-white.svg) no-repeat -3px 2px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas-white.svg) no-repeat -3px 2px;
     background-size: 15px 15px;
     padding-left: 16px
 }
 
 .main-marginal-column .card.shopping-cart .card-body .accordion-item .accordion-header .accordion-button .branch-icon-before-text.water {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water-white.svg) no-repeat -1px 3px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water-white.svg) no-repeat -1px 3px;
     background-size: 15px 15px;
     padding-left: 20px
 }
 
 .main-marginal-column .card.shopping-cart .card-body .accordion-item .accordion-header .accordion-button .branch-icon-before-text.thermal {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal-white.svg) no-repeat -1px 2px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal-white.svg) no-repeat -1px 2px;
     background-size: 15px 15px;
     padding-left: 20px
 }
 
 .main-marginal-column .card.shopping-cart .card-body .accordion-item .accordion-header .accordion-button .branch-icon-before-text.powerCharge {
     display: inline-block;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-white.svg) no-repeat 0 1px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-white.svg) no-repeat 0 1px;
     background-size: 15px 15px;
     padding-left: 20px
 }
@@ -27368,23 +27368,23 @@ footer .footer-top-nav #footer-top-nav-cage .footer-top-nav-link .footer-top-nav
 }
 
 footer .footer-top-nav #footer-top-nav-cage .footer-top-nav-link.payment-methods:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-highlight-strong-payment-methods.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-highlight-strong-payment-methods.svg) no-repeat 50%;
     background-size: contain;
     width: 33px
 }
 
 footer .footer-top-nav #footer-top-nav-cage .footer-top-nav-link.data-protection:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-highlight-strong-data-protection.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-highlight-strong-data-protection.svg) no-repeat 50%;
     background-size: contain
 }
 
 footer .footer-top-nav #footer-top-nav-cage .footer-top-nav-link.house-connection:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-highlight-strong-house-connection.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-highlight-strong-house-connection.svg) no-repeat 50%;
     background-size: contain
 }
 
 footer .footer-top-nav #footer-top-nav-cage .footer-top-nav-link.contract:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-highlight-strong-contract.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-highlight-strong-contract.svg) no-repeat 50%;
     background-size: contain
 }
 
@@ -27466,7 +27466,7 @@ footer .footer-bottom-nav #footer-bottom-nav-cage .footer-bottom-nav-link,footer
     font-weight: 700;
     font-size: 20px;
     color: #707070;
-    background: #dedede url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/03_status-icon_ahead.png) no-repeat;
+    background: #dedede url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/03_status-icon_ahead.png) no-repeat;
     background-position: center 1rem
 }
 
@@ -27489,7 +27489,7 @@ footer .footer-bottom-nav #footer-bottom-nav-cage .footer-bottom-nav-link,footer
     font-weight: 700;
     font-size: 20px;
     color: #fff;
-    background: #1a6cb2 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/02_status-icon_processing.png) no-repeat;
+    background: #1a6cb2 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/02_status-icon_processing.png) no-repeat;
     background-position: center 1rem
 }
 
@@ -27504,7 +27504,7 @@ footer .footer-bottom-nav #footer-bottom-nav-cage .footer-bottom-nav-link,footer
     font-weight: 700;
     font-size: 20px;
     color: #fff;
-    background: #757575 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/01_status-icon_done.png) no-repeat;
+    background: #757575 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/01_status-icon_done.png) no-repeat;
     background-position: center 1rem
 }
 
@@ -28695,7 +28695,7 @@ body.ems-integration main #main-process-container #main-process-cage .main-proce
 }
 
 .jstree-default .jstree-checkbox {
-    background-image: url(../https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/sprites-sfa68604977.png);
+    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/sprites-sfa68604977.png);
     background-position: -3px -4px
 }
 
@@ -29510,7 +29510,7 @@ a.jstree-anchor .bold {
 }
 
 .jstree-default .jstree-checkbox {
-    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/sprites-sfa68604977.png)
+    background-image: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/sprites-sfa68604977.png)
 }
 
 #cockpit-cards-container .menu-cards {
@@ -29610,7 +29610,7 @@ a.jstree-anchor .bold {
     #cockpit-cards-container .menu-cards .cockpit-menu-links-lg .cockpit-menu-process.active .cockpit-home-link-sm-containers .cockpit-home-link-sm.eins-aktuelles .cockpit-home-link-icon-container {
         height: 29px;
         width: 29px;
-        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_home_icon-aktuelles.svg) no-repeat 50%;
+        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_home_icon-aktuelles.svg) no-repeat 50%;
         background-size: 100%
     }
 
@@ -29623,7 +29623,7 @@ a.jstree-anchor .bold {
     #cockpit-cards-container .menu-cards .cockpit-menu-links-lg .cockpit-menu-process.active .cockpit-home-link-sm-containers .cockpit-home-link-sm.eins-freunde .cockpit-home-link-icon-container {
         height: 29px;
         width: 24px;
-        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_home_icon-freunde.svg) no-repeat 50%;
+        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_home_icon-freunde.svg) no-repeat 50%;
         background-size: 100%
     }
 
@@ -29636,7 +29636,7 @@ a.jstree-anchor .bold {
     #cockpit-cards-container .menu-cards .cockpit-menu-links-lg .cockpit-menu-process.active .cockpit-home-link-sm-containers .cockpit-home-link-sm.eins-umwelt .cockpit-home-link-icon-container {
         height: 29px;
         width: 33px;
-        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_home_icon-umwelt.svg) no-repeat 50%;
+        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_home_icon-umwelt.svg) no-repeat 50%;
         background-size: 100%
     }
 
@@ -29649,7 +29649,7 @@ a.jstree-anchor .bold {
     #cockpit-cards-container .menu-cards .cockpit-menu-links-lg .cockpit-menu-process.active .cockpit-home-link-sm-containers .cockpit-home-link-sm.eins-service .cockpit-home-link-icon-container {
         height: 29px;
         width: 30px;
-        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_home_icon-service.svg) no-repeat 50%;
+        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_home_icon-service.svg) no-repeat 50%;
         background-size: 100%
     }
 }
@@ -29744,12 +29744,12 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.start a {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-start.svg) no-repeat 16px 13px
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-start.svg) no-repeat 16px 13px
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.start a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.start a:hover {
     border-radius: 4px;
-    background: #d1540d url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-start-hover-focus.svg) no-repeat 16px 13px
+    background: #d1540d url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-start-hover-focus.svg) no-repeat 16px 13px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -29775,7 +29775,7 @@ a.jstree-anchor .bold {
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.start.active a {
     color: #fff;
     border-radius: 4px;
-    background: #d1540d url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-start-hover-focus.svg) no-repeat 16px 13px
+    background: #d1540d url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-start-hover-focus.svg) no-repeat 16px 13px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -29793,12 +29793,12 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.postbox a {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-postbox.svg) no-repeat 19px 12px
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-postbox.svg) no-repeat 19px 12px
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.postbox a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.postbox a:hover {
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-postbox-hover-focus.svg) no-repeat 19px 12px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-postbox-hover-focus.svg) no-repeat 19px 12px
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.postbox a .postbox-badge {
@@ -29839,7 +29839,7 @@ a.jstree-anchor .bold {
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.postbox.active a {
     color: #fff;
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-postbox-hover-focus.svg) no-repeat 19px 12px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-postbox-hover-focus.svg) no-repeat 19px 12px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -29857,12 +29857,12 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.meter-value a {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-meter-value.svg) no-repeat 19px 21px
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-meter-value.svg) no-repeat 19px 21px
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.meter-value a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.meter-value a:hover {
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-meter-value-hover-focus.svg) no-repeat 19px 21px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-meter-value-hover-focus.svg) no-repeat 19px 21px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -29882,7 +29882,7 @@ a.jstree-anchor .bold {
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.meter-value.active a {
     color: #fff;
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-meter-value-hover-focus.svg) no-repeat 19px 21px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-meter-value-hover-focus.svg) no-repeat 19px 21px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -29900,12 +29900,12 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.customer-data a {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-customer-data.svg) no-repeat 19px 14px
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-customer-data.svg) no-repeat 19px 14px
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.customer-data a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.customer-data a:hover {
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-customer-data-hover-focus.svg) no-repeat 19px 14px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-customer-data-hover-focus.svg) no-repeat 19px 14px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -29925,7 +29925,7 @@ a.jstree-anchor .bold {
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.customer-data.active a {
     color: #fff;
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-customer-data-hover-focus.svg) no-repeat 19px 14px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-customer-data-hover-focus.svg) no-repeat 19px 14px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -29943,12 +29943,12 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.payment-data a {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-payment-data.svg) no-repeat 19px 23px
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-payment-data.svg) no-repeat 19px 23px
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.payment-data a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.payment-data a:hover {
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-payment-data-hover-focus.svg) no-repeat 19px 23px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-payment-data-hover-focus.svg) no-repeat 19px 23px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -29968,7 +29968,7 @@ a.jstree-anchor .bold {
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.payment-data.active a {
     color: #fff;
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-payment-data-hover-focus.svg) no-repeat 19px 23px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-payment-data-hover-focus.svg) no-repeat 19px 23px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -29986,12 +29986,12 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.order a {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-order-status.svg) no-repeat 19px 16px
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-order-status.svg) no-repeat 19px 16px
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.order a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.order a:hover {
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-order-status-hover-focus.svg) no-repeat 19px 16px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-order-status-hover-focus.svg) no-repeat 19px 16px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -30011,7 +30011,7 @@ a.jstree-anchor .bold {
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.order.active a {
     color: #fff;
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-order-status-hover-focus.svg) no-repeat 19px 16px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-order-status-hover-focus.svg) no-repeat 19px 16px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -30029,12 +30029,12 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.contract a {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-contract.svg) no-repeat 19px 14px
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-contract.svg) no-repeat 19px 14px
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.contract a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.contract a:hover {
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-contract-hover-focus.svg) no-repeat 19px 14px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-contract-hover-focus.svg) no-repeat 19px 14px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -30054,7 +30054,7 @@ a.jstree-anchor .bold {
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.contract.active a {
     color: #fff;
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-contract-hover-focus.svg) no-repeat 19px 14px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-contract-hover-focus.svg) no-repeat 19px 14px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -30072,12 +30072,12 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.prepayment a {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-prepayment.svg) no-repeat 19px 23px
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-prepayment.svg) no-repeat 19px 23px
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.prepayment a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.prepayment a:hover {
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-prepayment-hover-focus.svg) no-repeat 19px 23px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-prepayment-hover-focus.svg) no-repeat 19px 23px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -30097,7 +30097,7 @@ a.jstree-anchor .bold {
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.prepayment.active a {
     color: #fff;
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-prepayment-hover-focus.svg) no-repeat 19px 23px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-prepayment-hover-focus.svg) no-repeat 19px 23px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -30115,12 +30115,12 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.invoice a {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-invoice.svg) no-repeat 19px 14px
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-invoice.svg) no-repeat 19px 14px
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.invoice a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.invoice a:hover {
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-invoice-hover-focus.svg) no-repeat 19px 14px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-invoice-hover-focus.svg) no-repeat 19px 14px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -30140,7 +30140,7 @@ a.jstree-anchor .bold {
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.invoice.active a {
     color: #fff;
     border-radius: 4px;
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-invoice-hover-focus.svg) no-repeat 19px 14px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-invoice-hover-focus.svg) no-repeat 19px 14px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -30160,67 +30160,67 @@ a.jstree-anchor .bold {
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products a {
     border-radius: 4px;
     color: #fff;
-    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-moz-linear-gradient(79deg,#0367b1,#01a3df);
-    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-webkit-linear-gradient(79deg,#0367b1,#01a3df);
-    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,linear-gradient(79deg,#0367b1,#01a3df)
+    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-moz-linear-gradient(79deg,#0367b1,#01a3df);
+    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-webkit-linear-gradient(79deg,#0367b1,#01a3df);
+    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,linear-gradient(79deg,#0367b1,#01a3df)
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products a:hover {
     border-radius: 4px;
-    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-moz-linear-gradient(79deg,#01a3df,#0367b1);
-    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
-    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,linear-gradient(79deg,#01a3df,#0367b1)
+    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-moz-linear-gradient(79deg,#01a3df,#0367b1);
+    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
+    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,linear-gradient(79deg,#01a3df,#0367b1)
 }
 
 @media (max-width: calc(1152px - 1px)) {
     #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products a {
-        background:url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-moz-linear-gradient(79deg,#0367b1,#01a3df);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-webkit-linear-gradient(79deg,#0367b1,#01a3df);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,linear-gradient(79deg,#0367b1,#01a3df)
+        background:url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-moz-linear-gradient(79deg,#0367b1,#01a3df);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-webkit-linear-gradient(79deg,#0367b1,#01a3df);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,linear-gradient(79deg,#0367b1,#01a3df)
     }
 
     #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products a:hover {
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-moz-linear-gradient(79deg,#01a3df,#0367b1);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,linear-gradient(79deg,#01a3df,#0367b1)
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-moz-linear-gradient(79deg,#01a3df,#0367b1);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,linear-gradient(79deg,#01a3df,#0367b1)
     }
 }
 
 @media (max-width: 767px) {
     #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products a {
-        background:url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-moz-linear-gradient(79deg,#0367b1,#01a3df);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-webkit-linear-gradient(79deg,#0367b1,#01a3df);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,linear-gradient(79deg,#0367b1,#01a3df)
+        background:url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-moz-linear-gradient(79deg,#0367b1,#01a3df);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-webkit-linear-gradient(79deg,#0367b1,#01a3df);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,linear-gradient(79deg,#0367b1,#01a3df)
     }
 
     #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products a:focus,#cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products a:hover {
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-moz-linear-gradient(79deg,#01a3df,#0367b1);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,linear-gradient(79deg,#01a3df,#0367b1)
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-moz-linear-gradient(79deg,#01a3df,#0367b1);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,linear-gradient(79deg,#01a3df,#0367b1)
     }
 }
 
 #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products.active a {
     color: #fff;
     border-radius: 4px;
-    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-moz-linear-gradient(79deg,#01a3df,#0367b1);
-    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
-    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,linear-gradient(79deg,#01a3df,#0367b1)
+    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-moz-linear-gradient(79deg,#01a3df,#0367b1);
+    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
+    background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px,linear-gradient(79deg,#01a3df,#0367b1)
 }
 
 @media (max-width: calc(1152px - 1px)) {
     #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products.active a {
-        background:url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-moz-linear-gradient(79deg,#01a3df,#0367b1);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,linear-gradient(79deg,#01a3df,#0367b1)
+        background:url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-moz-linear-gradient(79deg,#01a3df,#0367b1);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 10px/auto 20px,linear-gradient(79deg,#01a3df,#0367b1)
     }
 }
 
 @media (max-width: 767px) {
     #cockpit-cards-container .menu-cards .cockpit-menu-links .cockpit-menu-link.more-products.active a {
-        background:url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-moz-linear-gradient(79deg,#01a3df,#0367b1);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
-        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,linear-gradient(79deg,#01a3df,#0367b1)
+        background:url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-moz-linear-gradient(79deg,#01a3df,#0367b1);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,-webkit-linear-gradient(79deg,#01a3df,#0367b1);
+        background: url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_cockpit_menu_icon-more-products.svg) no-repeat 19px 13px/auto,linear-gradient(79deg,#01a3df,#0367b1)
     }
 }
 
@@ -30290,7 +30290,7 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .cockpit-main .cockpit-home-link.eins-aktuelles {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/eins-pic-aktuelles.png) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/eins-pic-aktuelles.png) no-repeat 50%;
     background-size: auto 350px
 }
 
@@ -30302,7 +30302,7 @@ a.jstree-anchor .bold {
     content: "";
     width: 45px;
     height: 45px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_home_icon-aktuelles.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_home_icon-aktuelles.svg) no-repeat 50%;
     background-size: 100%;
     display: inline-block;
     margin-bottom: -13px;
@@ -30311,7 +30311,7 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .cockpit-main .cockpit-home-link.eins-freunde {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/eins-pic-freunde.png) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/eins-pic-freunde.png) no-repeat 50%;
     background-size: auto 350px
 }
 
@@ -30323,7 +30323,7 @@ a.jstree-anchor .bold {
     content: "";
     width: 37px;
     height: 45px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_home_icon-freunde.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_home_icon-freunde.svg) no-repeat 50%;
     background-size: 100%;
     display: inline-block;
     margin-bottom: -12px;
@@ -30332,7 +30332,7 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .cockpit-main .cockpit-home-link.eins-umwelt {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/eins-pic-umwelt.png) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/eins-pic-umwelt.png) no-repeat 50%;
     background-size: auto 350px
 }
 
@@ -30344,7 +30344,7 @@ a.jstree-anchor .bold {
     content: "";
     width: 45px;
     height: 41px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_home_icon-umwelt.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_home_icon-umwelt.svg) no-repeat 50%;
     background-size: 100%;
     display: inline-block;
     margin-bottom: -11px;
@@ -30353,7 +30353,7 @@ a.jstree-anchor .bold {
 }
 
 #cockpit-cards-container .cockpit-main .cockpit-home-link.eins-service {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/eins-pic-service.png) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/eins-pic-service.png) no-repeat 50%;
     background-size: auto 350px
 }
 
@@ -30365,7 +30365,7 @@ a.jstree-anchor .bold {
     content: "";
     width: 43px;
     height: 45px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_home_icon-service.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_home_icon-service.svg) no-repeat 50%;
     background-size: 100%;
     display: inline-block;
     margin-bottom: -13px;
@@ -30457,22 +30457,22 @@ a.jstree-anchor .bold {
 }
 
 .home-tab-picture-container .picture-container.aktuelles {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/eins-pic-aktuelles.png) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/eins-pic-aktuelles.png) no-repeat 50%;
     background-size: auto 445px
 }
 
 .home-tab-picture-container .picture-container.freunde {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/eins-pic-freunde.png) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/eins-pic-freunde.png) no-repeat 50%;
     background-size: auto 445px
 }
 
 .home-tab-picture-container .picture-container.umwelt {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/eins-pic-umwelt.png) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/eins-pic-umwelt.png) no-repeat 50%;
     background-size: auto 445px
 }
 
 .home-tab-picture-container .picture-container.service {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/eins-pic-service.png) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/eins-pic-service.png) no-repeat 50%;
     background-size: auto 445px
 }
 
@@ -30652,7 +30652,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.power input[type=radio]:not(old)+label {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat center 52px;
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30661,7 +30661,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.power:focus input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.power:hover input[type=radio]:not(old)+label {
-    background: #e95e0f url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power-white.svg) no-repeat center 52px;
+    background: #e95e0f url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power-white.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30670,7 +30670,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.power input[type=radio]:not(old):checked+label {
-    background: #e95e0f url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power-white.svg) no-repeat center 52px;
+    background: #e95e0f url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power-white.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30679,7 +30679,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.gas input[type=radio]:not(old)+label {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat center 52px;
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30688,7 +30688,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.gas:focus input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.gas:hover input[type=radio]:not(old)+label {
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas-white.svg) no-repeat center 52px;
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas-white.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30697,7 +30697,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.gas input[type=radio]:not(old):checked+label {
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas-white.svg) no-repeat center 52px;
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas-white.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30706,7 +30706,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.emobility input[type=radio]:not(old)+label {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat center 52px;
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30715,7 +30715,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.emobility:focus input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.emobility:hover input[type=radio]:not(old)+label {
-    background: #23a137 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-white.svg) no-repeat center 52px;
+    background: #23a137 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-white.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30724,7 +30724,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.emobility input[type=radio]:not(old):checked+label {
-    background: #23a137 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-white.svg) no-repeat center 52px;
+    background: #23a137 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-white.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30733,7 +30733,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.internet input[type=radio]:not(old)+label {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-internet.svg) no-repeat center 52px;
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-internet.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30742,7 +30742,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.internet:focus input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.internet:hover input[type=radio]:not(old)+label {
-    background: #707070 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-internet-white.svg) no-repeat center 52px;
+    background: #707070 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-internet-white.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30751,7 +30751,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.internet input[type=radio]:not(old):checked+label {
-    background: #707070 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-internet-white.svg) no-repeat center 52px;
+    background: #707070 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-internet-white.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30760,7 +30760,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.esolutions input[type=radio]:not(old)+label {
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat center 52px;
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30769,7 +30769,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.esolutions:focus input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.esolutions:hover input[type=radio]:not(old)+label {
-    background: #006398 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal-white.svg) no-repeat center 52px;
+    background: #006398 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal-white.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30778,7 +30778,7 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .product-finder-branches .product-finder-branch-container.esolutions input[type=radio]:not(old):checked+label {
-    background: #006398 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal-white.svg) no-repeat center 52px;
+    background: #006398 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal-white.svg) no-repeat center 52px;
     background-size: auto 62px
 }
 
@@ -30800,52 +30800,52 @@ a.jstree-anchor .bold {
     }
 
     .product-finder .product-finder-branches .product-finder-branch-container.power input[type=radio]:not(old)+label {
-        background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat center 30px;
+        background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat center 30px;
         background-size: auto 36px
     }
 
     .product-finder .product-finder-branches .product-finder-branch-container.power:focus input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.power:hover input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.power input[type=radio]:not(old):checked+label {
-        background: #e95e0f url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power-white.svg) no-repeat center 30px;
+        background: #e95e0f url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power-white.svg) no-repeat center 30px;
         background-size: auto 36px
     }
 
     .product-finder .product-finder-branches .product-finder-branch-container.gas input[type=radio]:not(old)+label {
-        background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat center 30px;
+        background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat center 30px;
         background-size: auto 36px
     }
 
     .product-finder .product-finder-branches .product-finder-branch-container.gas:focus input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.gas:hover input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.gas input[type=radio]:not(old):checked+label {
-        background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas-white.svg) no-repeat center 30px;
+        background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas-white.svg) no-repeat center 30px;
         background-size: auto 36px
     }
 
     .product-finder .product-finder-branches .product-finder-branch-container.emobility input[type=radio]:not(old)+label {
-        background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat center 30px;
+        background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat center 30px;
         background-size: auto 36px
     }
 
     .product-finder .product-finder-branches .product-finder-branch-container.emobility:focus input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.emobility:hover input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.emobility input[type=radio]:not(old):checked+label {
-        background: #23a137 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading-white.svg) no-repeat center 30px;
+        background: #23a137 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading-white.svg) no-repeat center 30px;
         background-size: auto 36px
     }
 
     .product-finder .product-finder-branches .product-finder-branch-container.internet input[type=radio]:not(old)+label {
-        background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-internet.svg) no-repeat center 30px;
+        background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-internet.svg) no-repeat center 30px;
         background-size: auto 36px
     }
 
     .product-finder .product-finder-branches .product-finder-branch-container.internet:focus input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.internet:hover input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.internet input[type=radio]:not(old):checked+label {
-        background: #707070 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-internet-white.svg) no-repeat center 30px;
+        background: #707070 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-internet-white.svg) no-repeat center 30px;
         background-size: auto 36px
     }
 
     .product-finder .product-finder-branches .product-finder-branch-container.esolutions input[type=radio]:not(old)+label {
-        background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat center 30px;
+        background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat center 30px;
         background-size: auto 36px
     }
 
     .product-finder .product-finder-branches .product-finder-branch-container.esolutions:focus input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.esolutions:hover input[type=radio]:not(old)+label,.product-finder .product-finder-branches .product-finder-branch-container.esolutions input[type=radio]:not(old):checked+label {
-        background: #006398 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal-white.svg) no-repeat center 30px;
+        background: #006398 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal-white.svg) no-repeat center 30px;
         background-size: auto 36px
     }
 }
@@ -30899,7 +30899,7 @@ a.jstree-anchor .bold {
     content: "";
     width: 65px;
     height: 90px;
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 50%;
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 50%;
     background-size: auto 90px;
     float: right;
     border-left: 12px solid #f7f7f7
@@ -30953,7 +30953,7 @@ a.jstree-anchor .bold {
     content: "";
     width: 66px;
     height: 90px;
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 50%;
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 50%;
     background-size: auto 90px;
     float: right;
     border-left: 12px solid #f7f7f7
@@ -30985,7 +30985,7 @@ a.jstree-anchor .bold {
     content: "";
     width: 102px;
     height: 90px;
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 50%;
     background-size: auto 90px;
     float: right;
     border-left: 12px solid #f7f7f7
@@ -31017,7 +31017,7 @@ a.jstree-anchor .bold {
     content: "";
     width: 143px;
     height: 90px;
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-internet.svg) no-repeat 50%;
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-internet.svg) no-repeat 50%;
     background-size: auto 90px;
     float: right;
     border-left: 12px solid #f7f7f7
@@ -31049,7 +31049,7 @@ a.jstree-anchor .bold {
     content: "";
     width: 122px;
     height: 90px;
-    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 50%;
+    background: #f7f7f7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 50%;
     background-size: auto 90px;
     float: right;
     border-left: 12px solid #f7f7f7
@@ -31148,12 +31148,12 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .radios-customer-type.private input[type=radio]:not(old)+label:first-of-type div.radio-label {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/radio-icon-person-private-active.svg) no-repeat 12px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/radio-icon-person-private-active.svg) no-repeat 12px;
     background-size: auto 28px
 }
 
 .product-finder .radios-customer-type.private input[type=radio]:not(old)+label:nth-of-type(2) div.radio-label {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/radio-icon-person-business-inactive.svg) no-repeat 12px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/radio-icon-person-business-inactive.svg) no-repeat 12px;
     background-size: auto 28px
 }
 
@@ -31168,12 +31168,12 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .radios-customer-type.business input[type=radio]:not(old)+label:first-of-type div.radio-label {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/radio-icon-person-private-inactive.svg) no-repeat 12px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/radio-icon-person-private-inactive.svg) no-repeat 12px;
     background-size: auto 28px
 }
 
 .product-finder .radios-customer-type.business input[type=radio]:not(old)+label:nth-of-type(2) div.radio-label {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/radio-icon-person-business-active.svg) no-repeat 12px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/radio-icon-person-business-active.svg) no-repeat 12px;
     background-size: auto 28px
 }
 
@@ -31188,12 +31188,12 @@ a.jstree-anchor .bold {
 }
 
 .product-finder .radios-customer-type.heating input[type=radio]:not(old)+label:first-of-type div.radio-label {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/radio-icon-person-private-active.svg) no-repeat 12px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/radio-icon-person-private-active.svg) no-repeat 12px;
     background-size: auto 28px
 }
 
 .product-finder .radios-customer-type.heating input[type=radio]:not(old)+label:nth-of-type(2) div.radio-label {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/radio-icon-person-business-inactive.svg) no-repeat 12px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/radio-icon-person-business-inactive.svg) no-repeat 12px;
     background-size: auto 28px
 }
 
@@ -31369,12 +31369,12 @@ a.jstree-anchor .bold {
     width: 22px;
     height: 38px;
     float: left;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-single-person.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-single-person.svg) no-repeat 50%;
     background-size: auto 38px
 }
 
 .product-finder .consumption-persons .consumption-person.active {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-single-person-active.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-single-person-active.svg) no-repeat 50%;
     background-size: auto 38px
 }
 
@@ -31745,7 +31745,7 @@ body.cockpit.in #cockpit-cards-container .cockpit-main .product-finder .tariff-c
     display: inline-block;
     width: 23px;
     height: 23px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/advantage-icon.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/advantage-icon.svg) no-repeat 50%;
     background-size: 100%;
     margin-left: -23px
 }
@@ -31770,7 +31770,7 @@ body.cockpit.in #cockpit-cards-container .cockpit-main .product-finder .tariff-c
     display: inline-block;
     width: 23px;
     height: 23px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/oeko.png) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/oeko.png) no-repeat 50%;
     background-size: 100%;
     margin-left: -23px
 }
@@ -31904,7 +31904,7 @@ body.cockpit.in #cockpit-cards-container .cockpit-main .product-finder .tariff-c
     right: -8px;
     width: 90px;
     height: 90px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/fav-tariff-badge.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/fav-tariff-badge.svg) no-repeat 50%;
     background-size: 100%
 }
 
@@ -32085,7 +32085,7 @@ body.cockpit.in #cockpit-cards-container .cockpit-main .product-finder .tariffs-
 
 body.cockpit.in #cockpit-cards-container .cockpit-main .product-finder .tariffs-display-container.product-details .product-details-card .std-text-link .fa-file-pdf:before,body.cockpit.out #cockpit-cards-container .cockpit-main .product-finder .tariffs-display-container.product-details .product-details-card .std-text-link .fa-file-pdf:before {
     color: transparent;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins-icon-docs.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins-icon-docs.svg) no-repeat 50%;
     display: inline-block;
     width: 35px;
     height: 35px
@@ -32099,7 +32099,7 @@ body.cockpit.in #cockpit-cards-container .cockpit-main .product-finder .tariffs-
 
 @media (max-width: 767px) {
     body.cockpit.out main.product-finder {
-        background:transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/panorama-bg_cockpit.jpg) no-repeat center 43px;
+        background:transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/panorama-bg_cockpit.jpg) no-repeat center 43px;
         background-size: auto
     }
 }
@@ -32551,7 +32551,7 @@ body.cockpit.out #cockpit-cards-container .cockpit-main .card.login .btn-primary
 @media (max-width: calc(1152px - 1px)) {
     body.cockpit.out .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
         display:block;
-        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/panorama-bg_cockpit.jpg) no-repeat 50%;
+        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/panorama-bg_cockpit.jpg) no-repeat 50%;
         background-size: cover
     }
 
@@ -32585,7 +32585,7 @@ body.cockpit.out #cockpit-cards-container .cockpit-main .card.login .btn-primary
 
 @media (max-width: 767px) {
     body.cockpit.out main {
-        background:transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/panorama-bg_cockpit.jpg) no-repeat center 43px;
+        background:transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/panorama-bg_cockpit.jpg) no-repeat center 43px;
         background-size: cover
     }
 
@@ -32680,7 +32680,7 @@ body.cockpit.out #cockpit-cards-container .cockpit-main .card.login .btn-primary
 header .logo {
     position: fixed;
     z-index: 1031;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_logo_flag.svg) no-repeat 0 0;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_logo_flag.svg) no-repeat 0 0;
     background-size: auto 100%
 }
 
@@ -32695,14 +32695,14 @@ header>.alert {
 #header-menu .fa-user-cog {
     width: 26px;
     height: 26px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_icon-user.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_icon-user.svg) no-repeat 50%;
     background-size: 100%;
     margin-right: 8px;
     margin-top: 3px
 }
 
 #header-menu .fa-user-cog:focus,#header-menu .fa-user-cog:hover {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_icon-user-hover-focus.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_icon-user-hover-focus.svg) no-repeat 50%;
     background-size: 100%
 }
 
@@ -32714,19 +32714,19 @@ header>.alert {
     display: block;
     width: 26px;
     height: 26px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_icon-faq.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_icon-faq.svg) no-repeat 50%;
     background-size: 100%;
     margin-right: 16px;
     margin-top: 3px
 }
 
 #header-menu .faq:focus,#header-menu .faq:hover {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_icon-faq-hover-focus.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_icon-faq-hover-focus.svg) no-repeat 50%;
     background-size: 100%
 }
 
 #header-menu #logout {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_icon-logout.svg) no-repeat right 2px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_icon-logout.svg) no-repeat right 2px;
     background-size: auto 26px;
     padding: 2px 26px 3px 0;
     margin-right: 16px
@@ -32755,27 +32755,27 @@ header>.alert {
 }
 
 #header-menu ul.dropdown-menu.show>li>a.dropdown-item.key {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_menu_icon-key.svg) no-repeat 16px
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_menu_icon-key.svg) no-repeat 16px
 }
 
 #header-menu ul.dropdown-menu.show>li>a.dropdown-item.key:focus,#header-menu ul.dropdown-menu.show>li>a.dropdown-item.key:hover {
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_menu_icon-key-hover-focus.svg) no-repeat 16px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_menu_icon-key-hover-focus.svg) no-repeat 16px
 }
 
 #header-menu ul.dropdown-menu.show>li>a.dropdown-item.user-management {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_menu_icon-user-management.svg) no-repeat 16px
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_menu_icon-user-management.svg) no-repeat 16px
 }
 
 #header-menu ul.dropdown-menu.show>li>a.dropdown-item.user-management:focus,#header-menu ul.dropdown-menu.show>li>a.dropdown-item.user-management:hover {
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_menu_icon-user-management-hover-focus.svg) no-repeat 16px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_menu_icon-user-management-hover-focus.svg) no-repeat 16px
 }
 
 #header-menu ul.dropdown-menu.show>li>a.dropdown-item.actions {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_menu_icon-actions.svg) no-repeat 16px
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_menu_icon-actions.svg) no-repeat 16px
 }
 
 #header-menu ul.dropdown-menu.show>li>a.dropdown-item.actions:focus,#header-menu ul.dropdown-menu.show>li>a.dropdown-item.actions:hover {
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_menu_icon-actions-hover-focus.svg) no-repeat 16px
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_menu_icon-actions-hover-focus.svg) no-repeat 16px
 }
 
 @media (max-width: calc(1152px - 1px)) {
@@ -32842,7 +32842,7 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
     }
 
     header .logo {
-        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_logo.svg) no-repeat 7px 2px;
+        background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_logo.svg) no-repeat 7px 2px;
         background-size: auto 100%;
         width: 91px;
         height: 40px;
@@ -32877,7 +32877,7 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 
 @media (max-width: 767px) {
     header .logo {
-        background:transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_logo.svg) no-repeat 7px 2px;
+        background:transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_logo.svg) no-repeat 7px 2px;
         background-size: auto 100%;
         width: 91px;
         height: 40px;
@@ -33063,57 +33063,57 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.power {
-    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_power.svg) no-repeat 16px 23px;
+    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_power.svg) no-repeat 16px 23px;
     background-size: auto 48px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.power:focus,#contextMenu .accordion-item .accordion-body .context-menu-entry.power:hover {
-    background: #007ab4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_power.svg) no-repeat 26px 23px;
+    background: #007ab4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_power.svg) no-repeat 26px 23px;
     background-size: auto 48px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.gas {
-    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_gas.svg) no-repeat 16px 23px;
+    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_gas.svg) no-repeat 16px 23px;
     background-size: auto 48px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.gas:focus,#contextMenu .accordion-item .accordion-body .context-menu-entry.gas:hover {
-    background: #007ab4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_gas.svg) no-repeat 26px 23px;
+    background: #007ab4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_gas.svg) no-repeat 26px 23px;
     background-size: auto 48px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.water {
-    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_water.svg) no-repeat 16px 23px;
+    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_water.svg) no-repeat 16px 23px;
     background-size: auto 48px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.water:focus,#contextMenu .accordion-item .accordion-body .context-menu-entry.water:hover {
-    background: #007ab4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_water.svg) no-repeat 26px 23px;
+    background: #007ab4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_water.svg) no-repeat 26px 23px;
     background-size: auto 48px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.telecommunication {
-    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
+    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
     background-size: auto 45px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.telecommunication:focus,#contextMenu .accordion-item .accordion-body .context-menu-entry.telecommunication:hover {
-    background: #007ab4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 26px 22px;
+    background: #007ab4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 26px 22px;
     background-size: auto 45px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.emobility {
-    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_emobility.svg) no-repeat 16px 22px;
+    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_emobility.svg) no-repeat 16px 22px;
     background-size: auto 45px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.emobility:focus,#contextMenu .accordion-item .accordion-body .context-menu-entry.emobility:hover {
-    background: #007ab4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_emobility.svg) no-repeat 26px 22px;
+    background: #007ab4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_emobility.svg) no-repeat 26px 22px;
     background-size: auto 45px
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.esolutions {
-    background: #4cabd8 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_esolutions.svg) no-repeat 16px 30px;
+    background: #4cabd8 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_esolutions.svg) no-repeat 16px 30px;
     background-size: auto 36px;
     position: relative
 }
@@ -33134,7 +33134,7 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
     display: inline-block;
     width: 44px;
     height: 44px;
-    background: #b8def0 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_icon_info.svg) no-repeat 12px 12px;
+    background: #b8def0 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_icon_info.svg) no-repeat 12px 12px;
     background-size: 23px 23px;
     border-top-left-radius: 22px;
     border-bottom-right-radius: 8px;
@@ -33145,7 +33145,7 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item .accordion-body .context-menu-entry.esolutions:focus,#contextMenu .accordion-item .accordion-body .context-menu-entry.esolutions:hover {
-    background: #3fa5d5 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_esolutions.svg) no-repeat 26px 30px;
+    background: #3fa5d5 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_esolutions.svg) no-repeat 26px 30px;
     background-size: auto 36px
 }
 
@@ -33257,42 +33257,42 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item .accordion-body .context-submenu-entry.internet {
-    background: #0080bd url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_internet.svg) no-repeat 40px 27px;
+    background: #0080bd url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_internet.svg) no-repeat 40px 27px;
     background-size: auto 36px
 }
 
 #contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item .accordion-body .context-submenu-entry.internet:focus,#contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item .accordion-body .context-submenu-entry.internet:hover {
-    background: #0074ab url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_internet.svg) no-repeat 50px 27px;
+    background: #0074ab url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_internet.svg) no-repeat 50px 27px;
     background-size: auto 36px
 }
 
 #contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item .accordion-body .context-submenu-entry.phone {
-    background: #0080bd url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_phone.svg) no-repeat 40px 23px;
+    background: #0080bd url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_phone.svg) no-repeat 40px 23px;
     background-size: auto 45px
 }
 
 #contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item .accordion-body .context-submenu-entry.phone:focus,#contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item .accordion-body .context-submenu-entry.phone:hover {
-    background: #0074ab url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_phone.svg) no-repeat 50px 23px;
+    background: #0074ab url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_phone.svg) no-repeat 50px 23px;
     background-size: auto 45px
 }
 
 #contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item .accordion-body .context-submenu-entry.tv {
-    background: #0080bd url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_tv.svg) no-repeat 40px 28px;
+    background: #0080bd url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_tv.svg) no-repeat 40px 28px;
     background-size: auto 36px
 }
 
 #contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item .accordion-body .context-submenu-entry.tv:focus,#contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item .accordion-body .context-submenu-entry.tv:hover {
-    background: #0074ab url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_tv.svg) no-repeat 50px 28px;
+    background: #0074ab url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_tv.svg) no-repeat 50px 28px;
     background-size: auto 36px
 }
 
 #contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item.telecommunication .accordion-button.collapsed {
-    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
+    background: #0087c7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
     background-size: auto 45px
 }
 
 #contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item.telecommunication .accordion-button.collapsed:focus,#contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item.telecommunication .accordion-button.collapsed:hover {
-    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 26px 22px;
+    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 26px 22px;
     background-size: auto 45px
 }
 
@@ -33306,7 +33306,7 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item.telecommunication .accordion-button {
-    background: #0080bd url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
+    background: #0080bd url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
     background-size: auto 45px
 }
 
@@ -33315,7 +33315,7 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item.telecommunication .accordion-button:focus,#contextMenu .accordion-item .accordion-body #contextSubMenu .accordion-item.telecommunication .accordion-button:hover {
-    background: #0080bd url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
+    background: #0080bd url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
     background-size: auto 45px
 }
 
@@ -33324,12 +33324,12 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item.power .accordion-button.collapsed {
-    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_power.svg) no-repeat 16px 23px;
+    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_power.svg) no-repeat 16px 23px;
     background-size: auto 48px
 }
 
 #contextMenu .accordion-item.power .accordion-button {
-    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_power.svg) no-repeat 16px 23px;
+    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_power.svg) no-repeat 16px 23px;
     background-size: auto 48px
 }
 
@@ -33338,12 +33338,12 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item.gas .accordion-button.collapsed {
-    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_gas.svg) no-repeat 16px 23px;
+    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_gas.svg) no-repeat 16px 23px;
     background-size: auto 48px
 }
 
 #contextMenu .accordion-item.gas .accordion-button {
-    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_gas.svg) no-repeat 16px 23px;
+    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_gas.svg) no-repeat 16px 23px;
     background-size: auto 48px
 }
 
@@ -33352,12 +33352,12 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item.water .accordion-button.collapsed {
-    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_water.svg) no-repeat 16px 23px;
+    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_water.svg) no-repeat 16px 23px;
     background-size: auto 48px
 }
 
 #contextMenu .accordion-item.water .accordion-button {
-    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_water.svg) no-repeat 16px 23px;
+    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_water.svg) no-repeat 16px 23px;
     background-size: auto 48px
 }
 
@@ -33366,12 +33366,12 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item.telecommunication .accordion-button.collapsed {
-    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
+    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
     background-size: auto 45px
 }
 
 #contextMenu .accordion-item.telecommunication .accordion-button {
-    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
+    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_telecommunication.svg) no-repeat 16px 22px;
     background-size: auto 45px
 }
 
@@ -33380,12 +33380,12 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item.emobility .accordion-button.collapsed {
-    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_emobility.svg) no-repeat 16px 22px;
+    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_emobility.svg) no-repeat 16px 22px;
     background-size: auto 45px
 }
 
 #contextMenu .accordion-item.emobility .accordion-button {
-    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_emobility.svg) no-repeat 16px 22px;
+    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_emobility.svg) no-repeat 16px 22px;
     background-size: auto 45px
 }
 
@@ -33394,12 +33394,12 @@ body.cockpit .main-panorama #main-cockpit-panorama-cage .main-panorama-image {
 }
 
 #contextMenu .accordion-item.esolutions .accordion-button.collapsed {
-    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_esolutions.svg) no-repeat 16px 30px;
+    background: #0084c3 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_esolutions.svg) no-repeat 16px 30px;
     background-size: auto 36px
 }
 
 #contextMenu .accordion-item.esolutions .accordion-button {
-    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_context_menu_branch_icon_esolutions.svg) no-repeat 16px 30px;
+    background: #007cb7 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_context_menu_branch_icon_esolutions.svg) no-repeat 16px 30px;
     background-size: auto 36px
 }
 
@@ -34246,7 +34246,7 @@ textarea.form-control {
 }
 
 .input-group .input-group-text.input-date-icon {
-    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins-icon-calendar.svg) no-repeat 7px 7px;
+    background: #0090d4 url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins-icon-calendar.svg) no-repeat 7px 7px;
     border-color: #0090d4;
     color: #fff
 }
@@ -34256,19 +34256,19 @@ textarea.form-control {
 }
 
 .input-group .input-group-text.input-date-icon.alert-danger {
-    background: #ffeadf url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins-icon-calendar-danger.svg) no-repeat 7px 7px;
+    background: #ffeadf url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins-icon-calendar-danger.svg) no-repeat 7px 7px;
     border-color: red;
     color: red
 }
 
 .input-group .input-group-text.input-date-icon.alert-warning {
-    background: #fff8ea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins-icon-calendar-warning.svg) no-repeat 7px 7px;
+    background: #fff8ea url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins-icon-calendar-warning.svg) no-repeat 7px 7px;
     border-color: #e95e0f;
     color: #e95e0f
 }
 
 .input-group .input-group-text.input-date-icon.alert-info {
-    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins-icon-calendar-info.svg) no-repeat 7px 7px;
+    background: #fff url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins-icon-calendar-info.svg) no-repeat 7px 7px;
     border-color: #0090d4;
     color: #0090d4
 }
@@ -34313,7 +34313,7 @@ p.alert {
 .alert.alert-green .alert-icon {
     width: 30px;
     height: 30px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_icon-info.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_icon-info.svg) no-repeat 50%;
     background-size: 100%;
     margin-left: 1rem
 }
@@ -34326,38 +34326,38 @@ p.alert {
 .alert.alert-red .alert-icon {
     width: 30px;
     height: 30px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_icon-attention.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_icon-attention.svg) no-repeat 50%;
     background-size: 100%;
     margin-left: 1rem
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.power,input[type=checkbox]:not(old)+label div.radio-label.radio-label-branch-icon.power,input[type=radio]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.power,input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.power {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-power.svg) no-repeat 9px 4px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-power.svg) no-repeat 9px 4px;
     background-size: 20px 20px
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.gas,input[type=checkbox]:not(old)+label div.radio-label.radio-label-branch-icon.gas,input[type=radio]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.gas,input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.gas {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-gas.svg) no-repeat 10px 4px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-gas.svg) no-repeat 10px 4px;
     background-size: 20px 20px
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.water,input[type=checkbox]:not(old)+label div.radio-label.radio-label-branch-icon.water,input[type=radio]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.water,input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.water {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-water.svg) no-repeat 12px 4px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-water.svg) no-repeat 12px 4px;
     background-size: 20px 20px
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.thermal,input[type=checkbox]:not(old)+label div.radio-label.radio-label-branch-icon.thermal,input[type=radio]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.thermal,input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.thermal {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-thermal.svg) no-repeat 12px 5px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-thermal.svg) no-repeat 12px 5px;
     background-size: 20px 20px
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.powerCharge,input[type=checkbox]:not(old)+label div.radio-label.radio-label-branch-icon.powerCharge,input[type=radio]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.powerCharge,input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.powerCharge {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-vehicle-loading.svg) no-repeat 12px 4px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-vehicle-loading.svg) no-repeat 12px 4px;
     background-size: 20px 20px
 }
 
 input[type=checkbox]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.wastewater,input[type=checkbox]:not(old)+label div.radio-label.radio-label-branch-icon.wastewater,input[type=radio]:not(old)+label div.checkbox-label.checkbox-label-branch-icon.wastewater,input[type=radio]:not(old)+label div.radio-label.radio-label-branch-icon.wastewater {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-wastewater.svg) no-repeat 12px 4px;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-wastewater.svg) no-repeat 12px 4px;
     background-size: 20px 20px
 }
 
@@ -34383,7 +34383,7 @@ table.table-bordered.dataTable th {
 }
 
 a.eins-pdf-link {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_icon-pdf.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_icon-pdf.svg) no-repeat 50%;
     background-size: 100%
 }
 
@@ -34395,7 +34395,7 @@ a.eins-pdf-link,a.eins-pdf-link-read {
 }
 
 a.eins-pdf-link-read {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_icon-pdf-inactive.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_icon-pdf-inactive.svg) no-repeat 50%;
     background-size: 100%
 }
 
@@ -34403,7 +34403,7 @@ a.eins-download-link {
     display: inline-block;
     width: 21px;
     height: 21px;
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/eins_icon-download.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/eins_icon-download.svg) no-repeat 50%;
     background-size: 100%;
     margin-bottom: -3px
 }
@@ -34443,7 +34443,7 @@ footer .footer-top-nav #footer-top-nav-cage .footer-top-nav-link .footer-top-nav
 }
 
 footer .footer-top-nav #footer-top-nav-cage .footer-top-nav-link.meter-value:before {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/svg/icon-highlight-strong-meter-value.svg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/svg/icon-highlight-strong-meter-value.svg) no-repeat 50%;
     background-size: contain;
     margin-bottom: -14px
 }
@@ -34573,7 +34573,7 @@ tr.link {
 }
 
 .modal.surprise .modal-content .modal-body .modal-surprise-row .modal-surprise-image {
-    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/imagesde_DE/20210614_Pop-up.jpg) no-repeat 50%;
+    background: transparent url(https://onlineservice.eins.de/powercommerce/eins/fo/portal/resources/images/de_DE/20210614_Pop-up.jpg) no-repeat 50%;
     background-size: cover
 }
 
